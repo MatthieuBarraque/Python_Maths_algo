@@ -25,6 +25,8 @@ For example, to run the pong game, you would run the following command:
 
 python pong.py
 
+-h for help
+
 Contributing
 
 We welcome contributions to this repository. If you have any improvements or bug fixes, please submit a pull request.
